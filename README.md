@@ -27,3 +27,5 @@ Matplotlib / Seaborn
 ## DataSet from Kaggle:-
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
+##Presentation:-
+"C:\Users\xmary\OneDrive\Desktop\ML course1\Breast_Cancer_Professional_project[1][1].pptx"
